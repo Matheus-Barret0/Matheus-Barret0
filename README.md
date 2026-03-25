@@ -1,86 +1,51 @@
-<h1 align="center">👋 Olá, eu sou o Matheus Barreto</h1>
+<h1 align="center">Matheus Barreto</h1>
 
 <p align="center">
-  Desenvolvedor Fullstack especializado em backend, focado em performance, escalabilidade e soluções reais.
+  Desenvolvedor Fullstack • Foco em Backend • Performance & Escalabilidade
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-Laravel-informational?style=flat&logo=php" />
+  <img src="https://img.shields.io/badge/Magento-2-orange?style=flat&logo=magento" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/Java-Spring-red?style=flat&logo=java" />
+  <img src="https://img.shields.io/badge/RabbitMQ-Messaging-orange?style=flat&logo=rabbitmq" />
+  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/Docker-DevOps-blue?style=flat&logo=docker" />
 </p>
 
 ---
 
-## Sobre mim
+## Sobre
 
-Atuo no desenvolvimento de novas funcionalidades, automações e correções em sistemas web, participando ativamente da evolução e manutenção de aplicações em produção, com foco em:
-
-- performance
-- escalabilidade
-- organização de código
-- resolução de problemas de negócio
-
-Tenho experiência direta com ambientes de produção, além de atuar na otimização e melhoria contínua de sistemas existentes.
+Desenvolvedor fullstack com foco em backend, atuando na construção, evolução e manutenção de sistemas em produção, com ênfase em performance, escalabilidade e resolução de problemas de negócio.
 
 ---
 
-## Stack principal
+## Stack
 
-### Backend
-- PHP (Laravel / Magento)
-- Node.js
-- Java
-- Desenvolvimento de APIs REST
-
-### Frontend
-- React
-- Vue.js
-- JavaScript / TypeScript
-- Ant Design
-
-### Message Broker
-- RabbitMQ
-
-### Banco de Dados
-- MySQL
-- PostgreSQL
-- Oracle
-
-### Ferramentas & Ambiente
-- Git
-- Docker
-- Linux
+**Backend:** PHP (Laravel / Magento) • Node.js • Java • APIs REST  
+**Frontend:** React • Vue • JavaScript / TypeScript • Ant Design  
+**Messaging:** RabbitMQ  
+**Banco de Dados:** MySQL • PostgreSQL • Oracle  
+**Ferramentas:** Git • Docker • Linux  
 
 ---
 
-## Experiência prática
+## Experiência
 
-- Desenvolvimento e customização de projetos em Magento 2, incluindo criação de módulos personalizados, implementação de checkouts com intermediadoras de pagamento e integrações com ERPs como Protheus e Jetro
-
-- Implementação de lógica de distribuição inteligente de pedidos, utilizando algoritmos para seleção do depósito mais próximo do cliente
-
-- Otimização de performance em aplicações Java (Oracle) e Node.js, com foco em melhoria de queries e eficiência do sistema
-
-- Desenvolvimento e integração de APIs REST com autenticação JWT, incluindo integrações com sistemas de pagamento, ERP, avaliações de produtos e feeds externos
-
-- Desenvolvimento de sistema completo para monitoramento de temperatura de equipamentos, incluindo regras de negócio, controle de acesso (roles) e automação de relatórios
-
-- Implementação de processamento assíncrono com RabbitMQ e filas no Laravel, incluindo envio de emails e integração de dados
-
-- Criação de rotinas automatizadas (cron jobs) para geração de relatórios e processamento de dados
-
-- Atuação em ambientes de produção, incluindo análise de logs, correção de bugs em tempo real e manutenção de sistemas legados (Java 8 / Spring)
-
-- Implementação de pipelines de CI/CD para automação de deploy e melhoria do fluxo de entrega
-
----
-
-## Projetos em destaque
-
-Atualmente estruturando projetos públicos para demonstrar:
-
-- Sistemas fullstack completos
-- Autenticação e controle de acesso
-- Dashboards com dados em tempo real
-- Integrações com APIs externas
+- Magento 2: desenvolvimento de módulos, checkout e integrações com ERP (Protheus, Jetro)  
+- Lógica de distribuição inteligente de pedidos baseada em localização  
+- Otimização de performance (Java + Oracle, Node.js)  
+- APIs REST com autenticação JWT e integrações externas  
+- Sistema de monitoramento de temperatura com automações e regras de negócio  
+- Processamento assíncrono com RabbitMQ e filas no Laravel  
+- Automação com cron jobs  
+- Atuação em produção: logs, correções e sistemas legados (Java 8 / Spring)  
+- CI/CD e deploy automatizado  
 
 ---
 
 ## Contato
 
-- Email: gleidsonbarreto77@gmail.com
+📧 gleidsonbarreto77@gmail.com
